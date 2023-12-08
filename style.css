@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+  body{
+    background: #1e1e1e;
+  }
   header{
     height: 100vh;
     display: grid;
